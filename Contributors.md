@@ -1,6 +1,6 @@
 # Contributors
 
-- [azamat] (https://github.com/tikenov)
+- [tikenov] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
 - [priya]
 - [sevonefive]
